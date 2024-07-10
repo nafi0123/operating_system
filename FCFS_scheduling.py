@@ -77,4 +77,4 @@ if __name__ =="__main__":
 	findavgTime(processes, n, burst_time)
 
 # Time Complexity:O(n)
-Space Complexity: O(n)
+# Space Complexity: O(n)
